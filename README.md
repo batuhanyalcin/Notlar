@@ -1,0 +1,2 @@
+# Notlar
+Eğitimlerde alınılan notlar
