@@ -1,0 +1,98 @@
+﻿Day 1 <----
+
+
+Firefox eklentileri
+
+-Firebug
+
+-LiveHTTPHeaders
+
+-TamperData
+-User Agent Switcher
+
+-Hackbar
+
+Foca 
+--- 
+otomatize whois sorgusu
+
+
+https://www.iku.edu.tr/robot.txt -- /robot.txt dosyasi google in indexlemesini engellemek icin kullaniliyor
+
+
+pipl.com -- detayli email aramasi
+
+b
+WAPP -- Atack test ortami (XSS, SQL Injection)
+
+e.g 
+(SQL Injection): 
+..../bWAPP/sqli_1.php?title='iron+man' union select 1,2,3,4,5,6,7-- -action=search
+
+
+http://testphp.vulnweb.com/ 
+--- online test SQL Injection
+
+sqlmap 
+--- SQL Injection icin komut
+
+itsecgames.com 
+-- bWAPP image ni kur
+
+--NOTE: stxkbmap tr --> bWAPP ta klavyeyi turkce te cevriyor
+
+
+Day 2 <----
+
+
+SQL Injection 
+- Blind
+XSS 
+- Stored (Blog)
+
+Burp Suit
+
+Intersept
+Woppalyzer
+
+OS Command Injection 
+- Blind
+
+Insecure DOR (Change Secret)
+
+
+Remote & Local File Inclusion (RFI/LFI)
+
+Port Scan
+Connect 
+Scan
+SYN 
+Scan
+SYN/ACK 
+Scan
+FIN 
+Scan 
+Idle Scan
+nmap  
+--- 
+
+
+WireShark
+
+
+msfconsole
+
+show 
+option
+
+exploit
+
+incogrito (?)
+
+migraite
+clearev
+
+
+SQL Injection (GET/Search)
+sqlmap -u URL
+
